@@ -19,3 +19,18 @@ gksu-properties # check that it has "Authentication mode" to "sudo"
 gksu date
 gksudo date
 ```  
+## Make desktop app for STM32CubeMX
+Save to ```~/.local/share/applications/stm32cubemx.desktop```  
+```shell
+[Desktop Entry]
+Name=STM32CubeMX
+GenericName=STM32CubeMX
+Comment=Graphical tool for configuration of STM32 Microcontrollers
+Exec=/home/mohamedlassine/STM32CubeMX/STM32CubeMX
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/mohamedlassine/.local/share/applications/icons/stm32cubemx.png
+StartupWMClass=STM32CubeMX
+StartupNotify=true
+```  
