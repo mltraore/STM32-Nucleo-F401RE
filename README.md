@@ -34,3 +34,4 @@ Icon=/home/mohamedlassine/.local/share/applications/icons/stm32cubemx.png
 StartupWMClass=STM32CubeMX
 StartupNotify=true
 ```  
+for [more](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles#:~:text=Unity%20Launchers%20are%20actually%20files,access%20from%20the%20Unity%20Launcher.)
