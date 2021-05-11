@@ -38,5 +38,8 @@ StartupNotify=true
 ```  
 for [more](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles#:~:text=Unity%20Launchers%20are%20actually%20files,access%20from%20the%20Unity%20Launcher.)
 
-
 -->
+
+<p align=Center>
+    <img src="block_diagram.png" alt=" STM32-Nucleo-F401RE Block Diagram"/>
+</p>
