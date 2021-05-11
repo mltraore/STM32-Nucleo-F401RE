@@ -1,4 +1,6 @@
 # STM32-Nucleo-F401RE
+<!-- 
+
 ## Install System Workbench for [STM32](https://www.youtube.com/watch?v=kOvkFgpfI8Q)
 ## Install [STM32CubeMX](https://www.youtube.com/watch?v=FGneBNKR93k)
 ## Solution for [gksu](https://askubuntu.com/questions/1030054/how-to-install-an-application-that-requires-gksu-package-on-ubuntu-18-04) on ubuntu 18.04 LTS
@@ -35,3 +37,6 @@ StartupWMClass=STM32CubeMX
 StartupNotify=true
 ```  
 for [more](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles#:~:text=Unity%20Launchers%20are%20actually%20files,access%20from%20the%20Unity%20Launcher.)
+
+
+-->
