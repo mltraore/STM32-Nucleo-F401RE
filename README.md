@@ -41,5 +41,5 @@ for [more](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles#:~:te
 -->
 
 <p align=Center>
-    <img src="block_diagram.png" alt=" STM32-Nucleo-F401RE Block Diagram"/>
+    <img src="block_diagram.png" alt=" STM32-Nucleo-F401RE Block Diagram" title="STM32-Nucleo-F401RE Block Diagram">/>
 </p>
